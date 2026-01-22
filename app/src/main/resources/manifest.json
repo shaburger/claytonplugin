@@ -1,0 +1,12 @@
+{
+  "Group": "clayton",
+  "Name": "Clayton Plugin",
+  "Version": "1.0.0",
+  "Description": "Adds day cycle and 12-hour time chat commands.",
+  "Main": "clayton.plugin.App",
+  "Authors": [
+    {
+      "Name": "Clayton"
+    }
+  ]
+}
